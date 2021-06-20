@@ -1,0 +1,12 @@
+Symlinking /home/rasim/mavros/mavros/devel/./env.sh
+Symlinking /home/rasim/mavros/mavros/devel/./cmake.lock
+Symlinking /home/rasim/mavros/mavros/devel/./setup.sh
+Symlinking /home/rasim/mavros/mavros/devel/./setup.zsh
+Symlinking /home/rasim/mavros/mavros/devel/./setup.bash
+Symlinking /home/rasim/mavros/mavros/devel/./local_setup.sh
+Symlinking /home/rasim/mavros/mavros/devel/./local_setup.zsh
+Symlinking /home/rasim/mavros/mavros/devel/./local_setup.bash
+Symlinking /home/rasim/mavros/mavros/devel/./_setup_util.py
+Symlinking /home/rasim/mavros/mavros/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/rasim/mavros/mavros/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/rasim/mavros/mavros/devel/lib/pkgconfig/catkin_tools_prebuild.pc

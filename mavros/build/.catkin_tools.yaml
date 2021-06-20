@@ -1,0 +1,6 @@
+devel_space: /home/rasim/mavros/mavros/devel
+install: false
+install_space: /home/rasim/mavros/mavros/install
+profile: default
+source_space: /home/rasim/mavros/mavros/src
+workspace: /home/rasim/mavros/mavros
