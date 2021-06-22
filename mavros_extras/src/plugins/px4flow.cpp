@@ -55,7 +55,7 @@ public:
 		flow_nh.param("ranger_min_range", ranger_min_range, 0.3);
 		flow_nh.param("ranger_max_range", ranger_max_range, 5.0);
 
-		flow_rad_pub = flow_nh.advertise<mavros_msgs::OpticalFlowRad>("raw/optical_flow_rad", 10);
+		flow_rad_pub = flow_nh.advertise<mavros_msgs::OpticalFlowRad>("raw/optical_flow_rad_rasim", 10);
 		range_pub = flow_nh.advertise<sensor_msgs::Range>("ground_distance", 10);
 		temp_pub = flow_nh.advertise<sensor_msgs::Temperature>("temperature", 10);
 
