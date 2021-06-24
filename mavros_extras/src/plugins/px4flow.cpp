@@ -19,6 +19,7 @@
 #include <mavros/mavros_plugin.h>
 
 #include <mavros_msgs/OpticalFlowRad.h>
+#include <mavros_msgs/OpticalFlow.h>
 #include <sensor_msgs/Temperature.h>
 #include <sensor_msgs/Range.h>
 
