@@ -3,7 +3,8 @@
 	<!-- Based on mavros/node.launch -->
 	<!-- Launch script for PX4Flow -->
 
-	<arg name="fcu_url" default="serial:///dev/ttyACM0:921600" />
+	<!--arg name="fcu_url" default="udp://127.0.0.1:14551@14555" /-->
+	<arg name="fcu_url" default="/dev/ttyACM0:57600" />
 	<arg name="gcs_url" default="" />
 	<arg name="tgt_system" default="81" />
 	<arg name="tgt_component" default="50" />
