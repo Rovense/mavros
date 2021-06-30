@@ -110,7 +110,7 @@ setpoint_position:
     frame_id: "map"
     child_frame_id: "target_position"
     rate_limit: 50.0
-  mav_frame: LOCAL_NED
+  mav_frame: BODY_NED
 
 # setpoint_velocity
 setpoint_velocity:
